@@ -1,0 +1,5 @@
+{"userid":"Jarvis","Events":[{"pageid":"search","mousetime":"20","keystroke":"0","signalts":"2019-05-05 01:01:01"},{"pageid":"result","mousetime":"10","keystroke":"1","signalts":"2019-05-05 01:03:01"}]}
+{"userid":"TonyStark","Events":[{"pageid":"search","mousetime":"60","keystroke":"30","signalts":"2019-05-05 01:01:01"},{"pageid":"result","mousetime":"10","keystroke":"20","signalts":"2019-05-05 01:03:01"}]}
+{"userid":"TonyStark","Events":[{"pageid":"search","mousetime":"60","keystroke":"30","signalts":"2019-05-05 01:01:01"},{"pageid":"result","mousetime":"10","keystroke":"20","signalts":"2019-05-05 01:03:01"}]}
+{"userid":"Tony","Events":[{"pageid":"search","mousetime":"60","keystroke":"30","signalts":"2019-05-05 01:01:01"},{"pageid":"result","mousetime":"10","keystroke":"20","signalts":"2019-05-05 01:03:01"}]}
+{"userid":"Tony","Events":[{"pageid":"search","mousetime":"10","keystroke":"10","signalts":"2019-05-05 01:01:01"},{"pageid":"result","mousetime":"10","keystroke":"20","signalts":"2019-05-05 01:03:01"}]}
